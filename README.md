@@ -45,7 +45,7 @@ This project demonstrates full CRUD operations, Django ORM, relational models, a
 ## 🌐 Connect With Me
 - **Email:** udaysharmamailme@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/udaysharma192  
-- **Portfolio:** *udaysharma192.github.io*  
+- - **Portfolio:** [udaysharma192.github.io](https://udaysharma192.github.io)  
 
 ---
 
